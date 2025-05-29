@@ -53,8 +53,7 @@ Please reach out to me via email for the access of the code.
 ## 📜 License
 MIT License
 
-## Inspired From these papers-
-
+## Inspired From these papers
 -https://arxiv.org/abs/1905.10876 
 -https://arxiv.org/pdf/2108.00661
 
