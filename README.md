@@ -4,10 +4,11 @@ This repository contains a research notebook that explores the expressivity of q
 
 ## 🧪 Objectives
 
-- Evaluate the expressivity of various quantum circuit ansatzes.
-- Use Haar fidelity as a statistical benchmark to assess randomness.
-- Measure KL divergence between sampled fidelities and the Haar distribution.
-- Compare shallow vs deep circuits in terms of expressivity.
+-Evaluates a variety of ansatzes across increasing layer depths
+-Samples random parameters to compute fidelity with Haar-random target states
+-Calculates and visualizes how expressive a given ansatz becomes as layers increase
+-Helps researchers choose ansatzes that balance trainability and expressivity
+-Computes KL divergence to quantify each circuit’s expressivity per layer
 
 ## 📓 Notebook Overview
 
