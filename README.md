@@ -2,7 +2,7 @@
 
 This repository contains a research notebook that explores the expressivity of quantum neural network ansatzes using **Haar fidelity distribution** and **Kullback-Leibler (KL) divergence** as quantitative measures. The analysis is performed layer-wise to understand how expressivity evolves with network depth.
 
-## 🧪 Objectives
+## 🧪 Objectives:
 
 -Evaluates a variety of ansatzes across increasing layer depths
 -Samples random parameters to compute fidelity with Haar-random target states
